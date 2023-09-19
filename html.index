@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><i> Korijeni u matematici </i> </title>
+    <style>
+        body {
+        	background-color:#D1F2EB;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="#uvod">Uvod</a></li>
+  <li><a href="#definicija">Definicja</a></li>
+  <li><a href="#zadaci">Primjeri</a></li>
+  <li><a href="#općenito">Općenito</a></li>
+</ul>
+    <h1><i> Korijeni u matematici</i> </h1>
+
+    <p id="uvod">U matematici, korijen je operacija koja se koristi za pronalaženje broja koji, kada se pomnoži sam sa sobom određeni broj puta, daje rezultat koji se traži. Ovaj broj se naziva "korijen" i označava se simbolom √.</p>
+
+    <h2><i> Definicija </i> </h2>
+    <p id="defincija">Korijen n-tog stupnja broja a označava se kao √<sup>n</sup>a i predstavlja broj koji, kada se pomnoži sam sa sobom n puta, daje a.</p>
+
+    <p id="zadaci"> <h2> <i> Primjeri urađenih zadataka </i> </h2> </p>
+    <table>
+        <tr>
+            <th>Zadatak</th>
+            <th>Izračun</th>
+            <th>Rezultat</th>
+        </tr>
+        <tr>
+            <td>Primjer 1</td>
+            <td>√<sup>2</sup>16</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>Primjer 2</td>
+            <td>√<sup>3</sup>8</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Primjer 3</td>
+            <td>√<sup>5</sup>32</td>
+            <td>2</td>
+        </tr>
+    </table>
+
+    <h2><i> Općenito </i></h2>
+    <p id="općenito">Korijeni se često koriste u matematici i znanosti za rješavanje različitih problema. Poznavanje korijena i načina kako ih izračunati može biti korisno u mnogim matematičkim disciplinama.</p>
+    <img src="https://www.mim-sraga.com/slike/naslovne-zbirki/korijeni-400.jpg" width="350px" height="250px">
+   
+</body>
+</html>
